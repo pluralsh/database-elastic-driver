@@ -169,8 +169,12 @@ github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pkg/sftp v1.13.1/go.mod h1:3HaPG6Dq1ILlpPZRO0HVMrsydcdLt6HRDccSgb87qRg=
 github.com/pluralsh/database-interface-api v0.0.3 h1:Std92gEHUcFU5xdDPKlOT2F4r9v9aXUH+KevNgTp0Ys=
 github.com/pluralsh/database-interface-api v0.0.3/go.mod h1:++KR6tYfc5KDSIMSvj8c5VjEyKI1lmELvnrUFCDuZCs=
+github.com/pluralsh/database-interface-api v0.0.6 h1:G4VvnJaDATvOkEqyrce/Je/nAccndUy5yFU+S0uoWO4=
+github.com/pluralsh/database-interface-api v0.0.6/go.mod h1:aQ7E0lOCcjyAgFTw7bb8TaK4fQc9P/qiOJFSzBZBwxE=
 github.com/pluralsh/database-interface-controller v0.0.0-20221007104854-a23cf39463ad h1:JtzvqsSOY71b/w9dS1oZ4qW2f5VKyYcc1z0sET+3f94=
 github.com/pluralsh/database-interface-controller v0.0.0-20221007104854-a23cf39463ad/go.mod h1:IFNuvDksd1gvqv83qZrLlRC+hYQ4pZWzhGItxyv8NnM=
+github.com/pluralsh/database-interface-controller v0.0.5 h1:KQnsc9u/y+z+4NwNED5Z45CGzW0b/TkFnl9QWVdNknc=
+github.com/pluralsh/database-interface-controller v0.0.5/go.mod h1:G3OfqBztWYV8XiQ3PQaWdZI+C6fKdSl7J21rbb/lPF0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
