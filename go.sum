@@ -169,6 +169,8 @@ github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pkg/sftp v1.13.1/go.mod h1:3HaPG6Dq1ILlpPZRO0HVMrsydcdLt6HRDccSgb87qRg=
 github.com/pluralsh/database-interface-api v0.0.3 h1:Std92gEHUcFU5xdDPKlOT2F4r9v9aXUH+KevNgTp0Ys=
 github.com/pluralsh/database-interface-api v0.0.3/go.mod h1:++KR6tYfc5KDSIMSvj8c5VjEyKI1lmELvnrUFCDuZCs=
+github.com/pluralsh/database-interface-api v0.0.6 h1:G4VvnJaDATvOkEqyrce/Je/nAccndUy5yFU+S0uoWO4=
+github.com/pluralsh/database-interface-api v0.0.6/go.mod h1:aQ7E0lOCcjyAgFTw7bb8TaK4fQc9P/qiOJFSzBZBwxE=
 github.com/pluralsh/database-interface-controller v0.0.0-20221007104854-a23cf39463ad h1:JtzvqsSOY71b/w9dS1oZ4qW2f5VKyYcc1z0sET+3f94=
 github.com/pluralsh/database-interface-controller v0.0.0-20221007104854-a23cf39463ad/go.mod h1:IFNuvDksd1gvqv83qZrLlRC+hYQ4pZWzhGItxyv8NnM=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
