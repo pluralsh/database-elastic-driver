@@ -1,10 +1,12 @@
 module github.com/pluralsh/database-eleastic-driver
 
-go 1.18
+go 1.21
+
+toolchain go1.22.1
 
 require (
-	github.com/elastic/go-elasticsearch/v7 v7.17.7
-	github.com/elastic/go-elasticsearch/v8 v8.4.0
+	github.com/elastic/go-elasticsearch/v7 v7.17.10
+	github.com/elastic/go-elasticsearch/v8 v8.13.0
 	github.com/pluralsh/database-interface-api v0.0.3
 	github.com/pluralsh/database-interface-controller v0.0.0-20221007104854-a23cf39463ad
 	github.com/spf13/cobra v1.6.0
@@ -17,7 +19,7 @@ require (
 
 require (
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
-	github.com/go-logr/logr v1.2.3 // indirect
+	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
